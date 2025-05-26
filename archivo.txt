@@ -1,7 +1,4 @@
 Mi primer commit en Github
 Este es mi segundo cambio
-<<<<<<< HEAD
-Cambios desde el proyecto final
-=======
+Cambios desde el proyecto final/
 Cambios del colaborador desde copia
->>>>>>> 2c71f61790b3df36f8c2106c7d95733951736147
